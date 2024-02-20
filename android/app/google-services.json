@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011280054234",
+    "project_id": "tress-373a3",
+    "storage_bucket": "tress-373a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011280054234:android:5a1d1edf0d44bc614a62e3",
+        "android_client_info": {
+          "package_name": "com.example.tress_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_EUAiEjy2ZveYlde5lgqQZvls8d8EugE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
